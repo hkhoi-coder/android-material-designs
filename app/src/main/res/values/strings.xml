@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material Designs</string>
+    <string name="tool_bar">Toolbar</string>
+    <string name="custom_toolbar">Custom Toolbar</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="name">Hoàng Khôi</string>
+    <string name="email">hkhoi@apcs.vn</string>
+</resources>
