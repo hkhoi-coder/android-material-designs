@@ -18,6 +18,7 @@ public class CustomToolbarActivity extends AppCompatActivity {
         setContentView(R.layout.activity_custom_toolbar);
 
         initViews();
+        setUpActionBar();
     }
 
     private void initViews() {
